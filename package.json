@@ -1,0 +1,17 @@
+{
+  "name": "word-extractor",
+  "version": "0.1.0",
+  "description": "A program to extract words form a text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amirmohsen",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^4.0.0",
+    "fs": "0.0.1-security",
+    "querystring": "^0.2.0"
+  }
+}
